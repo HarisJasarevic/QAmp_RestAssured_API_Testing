@@ -10,6 +10,7 @@ public class LoginTest {
 
     private static final Logger LOGGER = Logger.getLogger("Login Test");
 
+    @Parameters ({"email", "password"})
     @Test (priority = 1, description = "This verifies that user is able to log in to " + "PlaceLab.", suiteName = "Login Test")
     public void testLoginPagePositive () {
 

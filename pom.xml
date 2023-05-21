@@ -11,8 +11,6 @@
         <maven.compiler.target>19</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <homepage>https://demo.placelab.com</homepage>
-        <email>haris.jasarevic@hotmail.com</email>
-        <password>Tijana0306!?!?</password>
         <user>Test User</user>
         <host>https://demo.placelab.com</host>
     </properties>
